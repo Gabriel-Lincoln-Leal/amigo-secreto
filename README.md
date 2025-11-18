@@ -1,1 +1,7 @@
-Desafio Challenge Amigo Secreto Alura, abra o arquivo index.html em seu navegador.
+# Desafio Amigo Secreto Alura
+
+Desenvolvimento de página para fixação do conteúdo:
+- HTML5
+- CSS3
+- Javascript
+- Visual Code Community
